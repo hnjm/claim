@@ -1,0 +1,9 @@
+{
+   "M4PH4X": [
+      {
+         "key": "OBYWUZDPONVG42LE",
+         "link": "https://reshrt.com/bnjYaTh9",
+         "version": 3.7
+      }
+   ]
+}
